@@ -65,3 +65,7 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+
+
+gem 'dotenv-rails'
+gem 'line-bot-api'#dotenv-railsは環境変数を扱うために使用するgem
