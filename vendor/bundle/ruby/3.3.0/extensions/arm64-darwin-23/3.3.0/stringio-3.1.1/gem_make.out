@@ -1,0 +1,18 @@
+current directory: /Users/fukudakei/Desktop/Ruby/weather_bot/vendor/bundle/ruby/3.3.0/gems/stringio-3.1.1/ext/stringio
+/Users/fukudakei/.rbenv/versions/3.3.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/fukudakei/Desktop/Ruby/weather_bot/vendor/bundle/ruby/3.3.0/gems/stringio-3.1.1/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20240929-66789-5w9gk3 sitelibdir\=./.gem.20240929-66789-5w9gk3 clean
+
+current directory: /Users/fukudakei/Desktop/Ruby/weather_bot/vendor/bundle/ruby/3.3.0/gems/stringio-3.1.1/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20240929-66789-5w9gk3 sitelibdir\=./.gem.20240929-66789-5w9gk3
+compiling stringio.c
+linking shared-object stringio.bundle
+
+current directory: /Users/fukudakei/Desktop/Ruby/weather_bot/vendor/bundle/ruby/3.3.0/gems/stringio-3.1.1/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20240929-66789-5w9gk3 sitelibdir\=./.gem.20240929-66789-5w9gk3 install
+/usr/bin/install -c -m 0755 stringio.bundle ./.gem.20240929-66789-5w9gk3
+
+current directory: /Users/fukudakei/Desktop/Ruby/weather_bot/vendor/bundle/ruby/3.3.0/gems/stringio-3.1.1/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20240929-66789-5w9gk3 sitelibdir\=./.gem.20240929-66789-5w9gk3 clean

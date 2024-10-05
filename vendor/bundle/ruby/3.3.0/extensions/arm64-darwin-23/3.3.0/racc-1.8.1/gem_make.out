@@ -1,0 +1,18 @@
+current directory: /Users/fukudakei/Desktop/Ruby/weather_bot/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+/Users/fukudakei/.rbenv/versions/3.3.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/fukudakei/Desktop/Ruby/weather_bot/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240929-66789-otlppd sitelibdir\=./.gem.20240929-66789-otlppd clean
+
+current directory: /Users/fukudakei/Desktop/Ruby/weather_bot/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240929-66789-otlppd sitelibdir\=./.gem.20240929-66789-otlppd
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/fukudakei/Desktop/Ruby/weather_bot/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240929-66789-otlppd sitelibdir\=./.gem.20240929-66789-otlppd install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20240929-66789-otlppd/racc
+
+current directory: /Users/fukudakei/Desktop/Ruby/weather_bot/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240929-66789-otlppd sitelibdir\=./.gem.20240929-66789-otlppd clean

@@ -1,0 +1,46 @@
+current directory: /Users/fukudakei/Desktop/Ruby/weather_bot/vendor/bundle/ruby/3.3.0/gems/prism-1.0.0/ext/prism
+/Users/fukudakei/.rbenv/versions/3.3.0/bin/ruby extconf.rb
+checking for prism.h in /Users/fukudakei/Desktop/Ruby/weather_bot/vendor/bundle/ruby/3.3.0/gems/prism-1.0.0/include... yes
+checking for prism/extension.h in /Users/fukudakei/Desktop/Ruby/weather_bot/vendor/bundle/ruby/3.3.0/gems/prism-1.0.0/ext... yes
+checking for whether -fvisibility=hidden is accepted as CFLAGS... yes
+Running make build/libprism.a with {"SOEXT"=>"dylib", "AR"=>"/Library/Developer/CommandLineTools/usr/bin/ar", "ARFLAGS"=>"rcu ", "MAKEDIRS"=>"mkdir -p", "RMALL"=>"rm -fr"}
+compiling build/static/diagnostic.o
+compiling build/static/encoding.o
+compiling build/static/node.o
+compiling build/static/options.o
+compiling build/static/pack.o
+compiling build/static/prettyprint.o
+compiling build/static/prism.o
+compiling build/static/regexp.o
+compiling build/static/serialize.o
+compiling build/static/static_literals.o
+compiling build/static/token_type.o
+compiling build/static/util/pm_buffer.o
+compiling build/static/util/pm_char.o
+compiling build/static/util/pm_constant_pool.o
+compiling build/static/util/pm_integer.o
+compiling build/static/util/pm_list.o
+compiling build/static/util/pm_memchr.o
+compiling build/static/util/pm_newline_list.o
+compiling build/static/util/pm_string.o
+compiling build/static/util/pm_strncasecmp.o
+compiling build/static/util/pm_strpbrk.o
+building build/libprism.a with /Library/Developer/CommandLineTools/usr/bin/ar
+creating Makefile
+
+current directory: /Users/fukudakei/Desktop/Ruby/weather_bot/vendor/bundle/ruby/3.3.0/gems/prism-1.0.0/ext/prism
+make DESTDIR\= sitearchdir\=./.gem.20240929-70084-y3hqqa sitelibdir\=./.gem.20240929-70084-y3hqqa clean
+
+current directory: /Users/fukudakei/Desktop/Ruby/weather_bot/vendor/bundle/ruby/3.3.0/gems/prism-1.0.0/ext/prism
+make DESTDIR\= sitearchdir\=./.gem.20240929-70084-y3hqqa sitelibdir\=./.gem.20240929-70084-y3hqqa
+compiling api_node.c
+compiling api_pack.c
+compiling extension.c
+linking shared-object prism/prism.bundle
+
+current directory: /Users/fukudakei/Desktop/Ruby/weather_bot/vendor/bundle/ruby/3.3.0/gems/prism-1.0.0/ext/prism
+make DESTDIR\= sitearchdir\=./.gem.20240929-70084-y3hqqa sitelibdir\=./.gem.20240929-70084-y3hqqa install
+/usr/bin/install -c -m 0755 prism.bundle ./.gem.20240929-70084-y3hqqa/prism
+
+current directory: /Users/fukudakei/Desktop/Ruby/weather_bot/vendor/bundle/ruby/3.3.0/gems/prism-1.0.0/ext/prism
+make DESTDIR\= sitearchdir\=./.gem.20240929-70084-y3hqqa sitelibdir\=./.gem.20240929-70084-y3hqqa clean
